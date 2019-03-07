@@ -2,7 +2,7 @@
 
 A classic Tetris like game made in Unity. To play it, simply clone the source code and open the folder in Unity. 
 
-Player control: 
+Mac/PC control: 
 
     left: move left
     right: move right
@@ -12,7 +12,7 @@ Player control:
 
 This game can also be deployed to ios device. You may need to change settings in Unity's Build Settings, and include an Apple developer profile in Xcode.
 
-Player control:
+Mobile control:
 
     swipe left/right: move 1 block
     drag: move continuously
