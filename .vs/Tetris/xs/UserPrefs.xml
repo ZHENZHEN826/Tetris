@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Managers/GameController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Core/Board.cs" Line="17" Column="6" />
+      <File FileName="Assets/Scripts/Core/Shape.cs" Line="31" Column="1" />
+      <File FileName="Assets/Scripts/Core/Spawner.cs" Line="12" Column="17" />
+      <File FileName="Assets/Scripts/Utility/Vectorf.cs" Line="16" Column="1" />
+      <File FileName="Assets/Scripts/Managers/SoundManager.cs" Line="90" Column="1" />
+      <File FileName="Assets/Scripts/Managers/ScoreManager.cs" Line="10" Column="12" />
+      <File FileName="Assets/Scripts/Core/Ghost.cs" Line="33" Column="29" />
+      <File FileName="Assets/Scripts/Utility/IconToggle.cs" Line="30" Column="6" />
+      <File FileName="Assets/Scripts/Utility/ScreenFader.cs" Line="25" Column="23" />
+      <File FileName="Assets/Scripts/Core/Holder.cs" Line="26" Column="1" />
+      <File FileName="Assets/Scripts/Managers/GameController.cs" Line="6" Column="22" />
+      <File FileName="Assets/Scripts/Managers/TouchController.cs" Line="127" Column="1" />
+      <File FileName="Assets/Scripts/Utility/SettingsPanel.cs" Line="102" Column="62" />
+      <File FileName="Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/CollabToolbarButton.cs" Line="129" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/tony/Document/Tetris/Assets/Scripts/Core/Ghost.cs" relfile="Assets/Scripts/Core/Ghost.cs" line="11" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
